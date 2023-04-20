@@ -1,6 +1,6 @@
 # 一个魔改版的动漫人物识别插件
 
-魔改自大佬的[nonebot插件](https://github.com/zhenxun-org/nonebot_plugins_zhenxun_bot)本插件可适用于[hoshinobot](https://github.com/Ice-Cirno/HoshinoBot)
+魔改自大佬的[nonebot插件](https://github.com/itoukou1/zhenxun_plugin_animetrace)本插件可适用于[hoshinobot](https://github.com/Ice-Cirno/HoshinoBot)
 
 
 ## 安装
