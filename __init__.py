@@ -47,10 +47,8 @@ async def handle_event(bot, ev: CQEvent):
     if ev.message[0].type == "reply":
         msg = await bot.get_msg(message_id=int(ev.message[0].data['id']))
         ev.message = msg["message"]
-        print("关键信息-----"+ev.message)
         await get_search(bot, ev, "anime")
     else:
-        print("关键信息-----" + ev.message)
         await get_search(bot, ev, "anime")
 
 
